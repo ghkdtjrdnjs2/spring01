@@ -14,5 +14,4 @@ public class Pagination {
 	private Long end;	
 	private Long next;
 	private Long pageno;
-
 }
