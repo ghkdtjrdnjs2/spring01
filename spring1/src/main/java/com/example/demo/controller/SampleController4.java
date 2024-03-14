@@ -18,7 +18,7 @@ import com.example.demo.dto.Pagination;
 // 수동적인 프로그래밍 : 설정에 따라 스프링이 객체를 생성, 관리하다가 DI한다
 
 // 스프링이 생성해서 주입해주는 객체 : !!!!!!!! bean !!!!!!!!!!!!
-// 빈알 새성하는 어노테이션 : @Controller
+// 빈을 생성하는 어노테이션 : @Controller
  
 
 @Controller
